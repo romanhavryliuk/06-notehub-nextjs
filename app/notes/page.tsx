@@ -1,4 +1,4 @@
-import NotesPageClient from "./NotesPage.client";
+import NotesPageClient from "./Notes.client";
 import { fetchNotes } from "@/lib/api";
 import {
   QueryClient,
